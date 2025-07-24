@@ -3,4 +3,5 @@
 - 801428236
 - ZCarillo
 - ProblemSolve19
-- the rectangletest.java is 
+- The rectangleTest.java imports a scanner, then inside the main, it has the user enter a width, then it has them input a height. After that, it gives the area, and it also creates a new rectangle called box 1
+- Circle Java has private instance variables, and then it has a circle constructor that sets the radius and color to default values. A second constructor with a given radius and color. A public method that retrieves the radius and color, as well as the area (getter methods). Then, a  private method for calculating the area
