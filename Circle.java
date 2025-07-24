@@ -1,9 +1,9 @@
 import java.awt.Color;
 
 /**
- * This class describes a circle with a given radius and color.
- *
- * @author nanajjar
+This class represents a circle with a specific radius and color and provides methods to access properties 
+and find the area
+ * @author Zaheir Carillo
  * @version Spring 25
  */
 
@@ -21,6 +21,8 @@ public class Circle {
     }
 
     // 2nd constructor with given radius and color
+  //  @param radius 
+  //  @param color 
     public Circle(double r, Color clr) {
         radius = r;
         color = clr;
@@ -31,12 +33,12 @@ public class Circle {
         return radius;
     }
 
-    // A public method for retrieving the color of circle
+    // A public method for retrieving the color of a circle
     public Color getColor() {
         return color;
     }
 
-    // A public method for retrieving the area of circle
+    // A public method for retrieving the area of a circle
     public double getArea() {
         calculateArea();
         return area;
