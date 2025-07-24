@@ -1,0 +1,6 @@
+- Zaheir Carillo
+- zcarillo@charlotte.edu
+- 801428236
+- ZCarillo
+- ProblemSolve19
+- the rectangletest.java is 
